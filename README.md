@@ -125,6 +125,6 @@ mindset    : Always learning. Always improving. 🚀
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Spraypax.Spraypax&color=FF6600)
 
-*"The quieter you become, the more you can hear."* — Ram Dass
+*"Always curious about how things work under the hood"*
 
 </div>
