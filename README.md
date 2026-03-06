@@ -1,5 +1,5 @@
-# 💫 About Me:
-Yo, i'm Spraypax<br><br>🧠Master Cybersécurity<br>🔍 I like CTF and offensive security.<br>🚀I like to improve my skills<br><br>Tech Stack :<br>C++, WEB, Rust, Python, GO, assembly, Java, Javascript, bash script, MYSQL, binary exploit, github<br><br>Softwares :<br><br>SQL developper, SQL manager, VSCODE, C++ Builder, VMWare, Microsoft Azure, Wireshark, Nmap, Burp Suite, Ghidra<br><br>Rootme :<br><br>https://www.root-me.org/Spraypax<br><br>GitHub Stats :<br><br>Graphiques d’activité. Des widgets qui affichent mes stats GitHub
+# 💫Yo, i'm Spraypax:
+<br>🧠Master Cybersécurity<br>🔍 I like CTF and offensive security.<br>🚀I like to improve my skills<br><br>Tech Stack :<br>C++, WEB, Rust, Python, GO, assembly, Java, Javascript, bash script, MYSQL, binary exploit, github<br><br>Softwares :<br><br>SQL developper, SQL manager, VSCODE, C++ Builder, VMWare, Microsoft Azure, Wireshark, Nmap, Burp Suite, Ghidra<br><br>Rootme :<br><br>https://www.root-me.org/Spraypax<br><br>GitHub Stats :<br><br>Graphiques d’activité. Des widgets qui affichent mes stats GitHub
 
 
 # 💻 Tech Stack:
