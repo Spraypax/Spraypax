@@ -1,15 +1,133 @@
-# 💫 About Me:
-Yo, i'm Spraypax<br><br>🧠Master Cybersécurity<br>🔍 I like CTF and offensive security.<br>🚀I like to improve my skills<br><br>Tech Stack :<br>C++, WEB, Rust, Python, GO, assembly, Java, Javascript, bash script, MYSQL, binary exploit, github<br><br>Softwares :<br><br>SQL developper, SQL manager, VSCODE, C++ Builder, VMWare, Microsoft Azure, Wireshark, Nmap, Burp Suite, Ghidra<br><br>Rootme :<br><br>https://www.root-me.org/Spraypax<br><br>GitHub Stats :<br><br>Graphiques d’activité. Des widgets qui affichent mes stats GitHub<br><br>💻 Tech Stack:<br>C++ C C# Go GraphQL HTML5 Java JavaScript Python PowerShell PHP Rust Bash Script AssemblyScript Oracle Azure Google Cloud GitHub MicrosoftSQLServer MySQL Git NodeJS<br><br>📊 GitHub Stats:<br>
+<div align="center">
 
+```
+███████╗██████╗ ██████╗  █████╗ ██╗   ██╗██████╗  █████╗ ██╗  ██╗
+██╔════╝██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗╚██╗██╔╝
+███████╗██████╔╝██████╔╝███████║ ╚████╔╝ ██████╔╝███████║ ╚███╔╝ 
+╚════██║██╔═══╝ ██╔══██╗██╔══██║  ╚██╔╝  ██╔═══╝ ██╔══██║ ██╔██╗ 
+███████║██║     ██║  ██║██║  ██║   ██║   ██║     ██║  ██║██╔╝ ██╗
+╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Spraypax&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Spraypax&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spraypax&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🧠 Master Cybersecurity · 🔍 CTF Player · ⚔️ Offensive Security
+
+[![Root-Me](https://img.shields.io/badge/Root--Me-Spraypax-blueviolet?style=for-the-badge&logo=target&logoColor=white)](https://www.root-me.org/Spraypax)
+[![GitHub](https://img.shields.io/badge/GitHub-Spraypax-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spraypax)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Spraypax&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👾 About Me
+
+> *"Break it to understand it. Understand it to break it better."*
+
+```yaml
+name       : Spraypax
+focus      : Cybersecurity & Offensive Security
+interests  : CTF challenges · Binary Exploitation · Reverse Engineering
+mindset    : Always learning. Always improving. 🚀
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🌐 Web & Database
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔐 Security & Exploitation
+
+![Binary Exploit](https://img.shields.io/badge/Binary_Exploitation-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8B0000?style=for-the-badge&logo=ghidra&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF_Challenges-FFD700?style=for-the-badge&logo=target&logoColor=black)
+
+</div>
+
+---
+
+## 🖥️ Tools & Software
+
+<div align="center">
+
+### 🔍 Security Tools
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white)
+
+### 🛠️ Dev & Database Tools
+
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![C++ Builder](https://img.shields.io/badge/C++_Builder-CC2929?style=for-the-badge&logo=embarcadero&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Manager](https://img.shields.io/badge/SQL_Manager-003B6F?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ☁️ Infrastructure & Virtualization
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spraypax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6600&icon_color=FF6600&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spraypax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6600&text_color=FFFFFF"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Spraypax&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6600&fire=FF6600&currStreakLabel=FF6600)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Spraypax&theme=tokyo-night&bg_color=0D1117&color=FF6600&line=FF6600&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 Root-Me Profile
+
+<div align="center">
+
+[![Root-Me Profile](https://img.shields.io/badge/🎯_Root--Me_Profile-Spraypax-blueviolet?style=for-the-badge)](https://www.root-me.org/Spraypax)
+
+> *Solving challenges. Sharpening my blade. One flag at a time.* 🚩
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Spraypax.Spraypax&color=FF6600)
+
+*"The quieter you become, the more you can hear."* — Ram Dass
+
+</div>
