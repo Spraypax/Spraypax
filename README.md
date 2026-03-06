@@ -93,9 +93,6 @@ mindset    : Always learning. Always improving. 🚀
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spraypax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6600&icon_color=FF6600&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spraypax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6600&text_color=FFFFFF"/>
-
 </div>
 
 <div align="center">
