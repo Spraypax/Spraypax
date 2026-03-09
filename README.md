@@ -23,11 +23,11 @@
 > *"Break it to understand it. Understand it to break it better."*
 
 ```yaml
-name       : Spraypax
+Name       : Spraypax
 Studies    : Master's in CyberSecurity (Expert in Systems and Network Architectures & Cybersecurity - Certification – Level 7)
-focus      : Offensive Security
-interests  : CTF Challenges · Pentesting · Web Hacking · OSINT · Malware Analysis · Reverse Engineering · Network Security
-mindset    : Always learning. Always improving.
+Focus      : Offensive Security
+Interests  : CTF Challenges · Pentesting · Web Hacking · OSINT · Malware Analysis · Reverse Engineering · Network Security
+Mindset    : Always learning. Always improving.
 ```
 
 ---
