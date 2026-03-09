@@ -24,7 +24,7 @@
 
 ```yaml
 name       : Spraypax
-Studies    : Master's degree in CyberSecurity (Expert in Systems and Network Architectures & Cybersecurity - Certification – Level 7)
+Studies    : Master's in CyberSecurity (Expert in Systems and Network Architectures & Cybersecurity - Certification – Level 7)
 focus      : Offensive Security
 interests  : CTF Challenges · Pentesting · Web Hacking · OSINT · Malware Analysis · Reverse Engineering · Network Security
 mindset    : Always learning. Always improving.
