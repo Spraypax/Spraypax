@@ -85,8 +85,8 @@ Mindset    : Always learning. Always improving.
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white)
-![Cyberwatch](https://img.shields.io/badge/Cyberwatch-Vulnerability%20Management-0052CC?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![Centrillon](https://img.shields.io/badge/Centrillon-GRC%20Platform-FF6A00?style=for-the-badge&logo=shield&logoColor=white)
+![Cyberwatch](https://img.shields.io/badge/Cyberwatch-2E6DA4?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Centrillon](https://img.shields.io/badge/Centrillon-FF6A00?style=for-the-badge&logo=shield&logoColor=white)
 
 ### 🛠️ Dev & Database Tools
 
