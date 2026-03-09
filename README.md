@@ -84,7 +84,7 @@ mindset    : Always learning. Always improving.
 
 ### ☁️ Infrastructure & Virtualization
 
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white)
 ![Remote Desktop Services](https://img.shields.io/badge/Remote_Desktop_Services-0078D6?style=for-the-badge&logo=windows&logoColor=white)
