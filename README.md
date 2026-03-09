@@ -18,20 +18,21 @@
 
 ---
 
-## 👾 About Me
+## 👾 About Me 
 
 > *"Break it to understand it. Understand it to break it better."*
 
 ```yaml
 name       : Spraypax
-focus      : Cybersecurity & Offensive Security
-interests  : CTF challenges · Binary Exploitation · Reverse Engineering
-mindset    : Always learning. Always improving. 🚀
+Studies    : Master's degree in Cyber Security (Expert in Systems and Network Architectures & Cybersecurity, Certification – Level 7)
+focus      : Offensive Security
+interests  : CTF Challenges · Pentesting · Web Hacking · OSINT · Malware Analysis · Reverse Engineering · Network Security
+mindset    : Always learning. Always improving.
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 <div align="center">
 
