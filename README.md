@@ -24,7 +24,7 @@
 
 ```yaml
 name       : Spraypax
-Studies    : Master's degree in Cyber Security (Expert in Systems and Network Architectures & Cybersecurity, Certification – Level 7)
+Studies    : Master's degree in CyberSecurity (Expert in Systems and Network Architectures & Cybersecurity - Certification – Level 7)
 focus      : Offensive Security
 interests  : CTF Challenges · Pentesting · Web Hacking · OSINT · Malware Analysis · Reverse Engineering · Network Security
 mindset    : Always learning. Always improving.
@@ -46,6 +46,7 @@ mindset    : Always learning. Always improving.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### 🌐 Web & Database
 
@@ -83,8 +84,10 @@ mindset    : Always learning. Always improving.
 
 ### ☁️ Infrastructure & Virtualization
 
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VMware](https://img.shields.io/badge/-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white)
+![Remote Desktop Services](https://img.shields.io/badge/Remote_Desktop_Services-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
