@@ -32,6 +32,17 @@ mindset    : Always learning. Always improving.
 
 ---
 
+## 🛡️ Security & Compliance
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DORA-Digital%20Operational%20Resilience%20Act-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NIS2-Network%20and%20Information%20Security%20Directive-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EBIOS--RM-Risk%20Management%20Methodology-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ISO%2FIEC-27005%20Risk%20Management-green?style=for-the-badge"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack 
 
 <div align="center">
