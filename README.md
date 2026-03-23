@@ -89,7 +89,7 @@ Mindset    : Always learning. Always improving.
 ![Autopsy](https://img.shields.io/badge/Autopsy-4B8BBE?style=for-the-badge&logo=autopsy&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 ![Cyberwatch](https://img.shields.io/badge/Cyberwatch-2E6DA4?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![Centrillon](https://img.shields.io/badge/Centrillon-FF6A00?style=for-the-badge&logo=shield&logoColor=white)
+![Centreon](https://img.shields.io/badge/Centrillon-FF6A00?style=for-the-badge&logo=shield&logoColor=white)
 
 ### 🛠️ Dev & Database Tools
 
